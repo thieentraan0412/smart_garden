@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "643cc452e90164eb13f80262"
+  },
+  "id": 2,
+  "name": "Sensor độ ẩm 1",
+  "type": "air",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 2,
+    "y": 1
+  },
+  "status": true,
+  "sensor_type": null,
+  "threshold": {
+    "min": 25,
+    "max": 30
+  },
+  "water": null,
+  "time": null,
+  "garPiece": 1
+},{
+  "_id": {
+    "$oid": "643cc482e90164eb13f80268"
+  },
+  "id": 3,
+  "name": "Sensor nhiệt độ 1",
+  "type": "temp",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 2,
+    "y": 1
+  },
+  "status": true,
+  "sensor_type": null,
+  "threshold": {
+    "min": 25,
+    "max": 30
+  },
+  "water": null,
+  "time": null,
+  "garPiece": 1
+},{
+  "_id": {
+    "$oid": "643cc79fe90164eb13f80285"
+  },
+  "id": 5,
+  "name": "Máy bơm 1",
+  "type": "pump",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 3,
+    "y": 5
+  },
+  "status": true,
+  "sensor_type": null,
+  "threshold": {
+    "min": null,
+    "max": null
+  },
+  "water": 300,
+  "time": null,
+  "garPiece": 1
+},{
+  "_id": {
+    "$oid": "643cc8b4e90164eb13f80288"
+  },
+  "id": 4,
+  "name": "Sensor độ ẩm đất 1",
+  "type": "soil",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 6,
+    "y": 3
+  },
+  "status": true,
+  "sensor_type": null,
+  "threshold": {
+    "min": 25,
+    "max": 30
+  },
+  "water": null,
+  "time": null,
+  "garPiece": 1
+},{
+  "_id": {
+    "$oid": "643cc8e1e90164eb13f80289"
+  },
+  "id": 1,
+  "name": "Sensor ánh sáng 1",
+  "type": "light",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 4,
+    "y": 4
+  },
+  "status": true,
+  "sensor_type": null,
+  "threshold": {
+    "min": null,
+    "max": null
+  },
+  "water": null,
+  "time": 3000,
+  "garPiece": 1
+},{
+  "_id": {
+    "$oid": "6449e7b7af9e66f03fc1be83"
+  },
+  "id": 6,
+  "name": "Máy bơm 2",
+  "type": "pump",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 4,
+    "y": 4
+  },
+  "status": false,
+  "sensor_type": null,
+  "threshold": {
+    "min": null,
+    "max": null
+  },
+  "water": 250,
+  "time": null,
+  "garPiece": 1
+},{
+  "_id": {
+    "$oid": "644a0a6a54867e4a018c0a7e"
+  },
+  "id": 7,
+  "name": "12",
+  "type": "light",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 12,
+    "y": 12
+  },
+  "status": true,
+  "threshold": {
+    "min": 12,
+    "max": 12
+  },
+  "water": null,
+  "time": null,
+  "garPiece": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a0a9b54867e4a018c0b93"
+  },
+  "id": 8,
+  "name": "Đèn",
+  "type": "led",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 9,
+    "y": 12
+  },
+  "status": true,
+  "threshold": {
+    "min": null,
+    "max": null
+  },
+  "water": null,
+  "time": 302,
+  "garPiece": 1,
+  "__v": 0
+}]

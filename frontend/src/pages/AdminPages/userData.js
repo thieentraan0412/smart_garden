@@ -1,0 +1,80 @@
+export default [
+    {
+        id: 0,
+        name: "John Doe",
+        email: "john.doe@example.com",
+        phone: "(123) 456-7890",
+        password: "abc123",
+        account: "johndoe",
+        address: "123 Main St, Anytown, USA",
+        role: "customer",
+        status: false,
+        date: "01/01/1980",
+        start_date: null
+    },
+    {
+        id: 1,
+        name: "Jane Smith",
+        email: "jane.smith@example.com",
+        phone: "(098) 765-4321",
+        password: "def456",
+        account: "janesmith",
+        address: "456 Elm St, Sometown, USA",
+        role: "customer",
+        status: false,
+        date: "02/02/1990",
+        start_date: null
+    },
+    {
+        id: 2,
+        name: "Bob Johnson",
+        email: "bob.johnson@example.com",
+        phone: "(111) 222-3333",
+        password: "ghi789",
+        account: "bobjohnson",
+        address: "789 Pine St, Othertown, USA",
+        role: "customer",
+        status: false,
+        date: "03/03/2000",
+        start_date: null
+    },
+    {
+        id: 3,
+        name: "Alice Williams",
+        email: "alice.williams@example.com",
+        phone: "(444) 555-6666",
+        password: "jkl012",
+        account: "alicewilliams",
+        address: "012 Oak St, Newtown, USA",
+        role: "customer",
+        status: false,
+        date: "04/04/2010",
+        start_date: null
+    },
+    {
+        id: 4,
+        name: "Charlie Brown",
+        email: "charlie.brown@example.com",
+        phone: "7778889990",
+        password: "mno345",
+        account: "admin",
+        address: "345 Maple St, Oldtown, USA",
+        role: "admin",
+        status: false,
+        date: "05/05/2020",
+        start_date: "06/06/2020"
+    },
+    {
+        id: 5,
+        name: "David Davis",
+        email: "david.davis@example.com",
+        phone: "9998887776",
+        password: "pqr678",
+        account: "tech1",
+        address: "678 Cedar St, Yourtown, USA",
+        role: "admindevice",
+        status: false,
+        date: "07/07/2007",
+        start_date: "08/08/2008"
+    }
+];

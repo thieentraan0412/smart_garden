@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "6437631ca969a99575b93f31"
+  },
+  "type": "Temperature",
+  "userID": "Thien",
+  "urgent": false,
+  "isRead": false,
+  "measure": 35,
+  "threshold": 30,
+  "time": {
+    "$date": "2023-04-13T02:04:12.713Z"
+  },
+  "gardenName": "SuperGarden",
+  "coordinates": {
+    "x": 1,
+    "y": 2
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6437631ca969a99575b93f32"
+  },
+  "type": "Soil Humidity",
+  "userID": "Thien",
+  "urgent": false,
+  "isRead": false,
+  "measure": 80,
+  "threshold": 60,
+  "time": {
+    "$date": "2023-04-13T02:04:12.714Z"
+  },
+  "gardenName": "SuperGarden",
+  "coordinates": {
+    "x": 4,
+    "y": 3
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643774410a6e5233c4664a3d"
+  },
+  "type": "Temperature",
+  "userID": "Thien",
+  "urgent": false,
+  "isRead": false,
+  "measure": 33,
+  "threshold": 30,
+  "time": {
+    "$date": "2023-04-13T03:17:21.599Z"
+  },
+  "gardenName": "SuperGarden",
+  "coordinates": {
+    "x": 2,
+    "y": 4
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64377b4e75ede9b3c7dd191d"
+  },
+  "type": "Air Humidity",
+  "userID": "Thien",
+  "urgent": false,
+  "isRead": false,
+  "measure": 50,
+  "threshold": 60,
+  "time": {
+    "$date": "2023-04-13T03:47:26.268Z"
+  },
+  "gardenName": "SuperGarden",
+  "coordinates": {
+    "x": 3,
+    "y": 3
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64377b9175e0c5179ebf9a58"
+  },
+  "type": "Air Humidity",
+  "userID": "Thien",
+  "urgent": false,
+  "isRead": false,
+  "measure": 70,
+  "threshold": 65,
+  "time": {
+    "$date": "2023-04-13T03:48:33.349Z"
+  },
+  "gardenName": "SuperGarden",
+  "coordinates": {
+    "x": 4,
+    "y": 4
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643b6c6bc5ce8a9402dbab3a"
+  },
+  "type": "Device",
+  "userID": "Thien",
+  "urgent": true,
+  "isRead": false,
+  "time": {
+    "$date": "2023-04-16T03:32:59.562Z"
+  },
+  "gardenName": "SuperGarden",
+  "coordinates": {
+    "x": 5,
+    "y": 6
+  },
+  "__v": 0
+}]

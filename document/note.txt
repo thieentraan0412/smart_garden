@@ -1,0 +1,5 @@
++ user.json: File này bao gồm dữ liệu của cả Customer, AdminDevice và Admin.
+Do đó có thể được dùng xác thực người dùng ở trang Login và hiển thị thông tin
+người dùng ở trang Admin
++ request.json: File này chức các yêu cầu của người dùng cho Admin.
+Chỉ có phía Admin sử dụng file này

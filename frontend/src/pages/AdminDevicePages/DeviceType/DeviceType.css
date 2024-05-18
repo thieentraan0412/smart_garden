@@ -1,0 +1,13 @@
+
+.item {
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 175px;
+    height: 175px;
+    background-color: #007155;
+}
+
+.image {
+    width: 75px;
+    height: 75px;
+}

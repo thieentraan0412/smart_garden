@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "6426940f60367b4fa110cf2b"
+  },
+  "id": 0,
+  "name": "Trần Văn Thiện",
+  "email": "Thien@gmail.com",
+  "phone": "0302555107",
+  "password": "123456",
+  "account": "Thien",
+  "address": "7548 Phố Cát Nguyên Lam, Ấp Khuất Bắc, Huyện Bửu Thủy Hưng Yên",
+  "role": "customer",
+  "status": false,
+  "date": "26/11/1981",
+  "start_date": null
+},{
+  "_id": {
+    "$oid": "6426942060367b4fa110cf2d"
+  },
+  "id": 1,
+  "name": "Nguyễn Khoa Nam",
+  "email": "Nam@hotmail.com",
+  "phone": "0934648803",
+  "password": "123456",
+  "account": "Nam",
+  "address": "42 Phố Hiền, Phường Vinh, Quận Ngụy Phúc Toàn Hà Nội",
+  "role": "customer",
+  "status": false,
+  "date": "19/09/1969",
+  "start_date": null
+},{
+  "_id": {
+    "$oid": "6426943460367b4fa110cf2f"
+  },
+  "id": 2,
+  "name": "Đặng Phú Quốc",
+  "email": "Quoc@yahoo.com",
+  "phone": "0711065242",
+  "password": "123456",
+  "account": "Quoc",
+  "address": "3, Thôn Phương Nguyên, Phường 5, Huyện 55 Bến Tre",
+  "role": "customer",
+  "status": false,
+  "date": "30/04/1984",
+  "start_date": null
+},{
+  "_id": {
+    "$oid": "6426947460367b4fa110cf31"
+  },
+  "id": 3,
+  "name": "Dương Văn Tiến Đạt",
+  "email": "Dat@yahoo.com",
+  "phone": "0846065926",
+  "password": "123456",
+  "account": "Dat",
+  "address": "7 Phố Uông Nam Thuần, Phường 2, Quận Trinh Tài Cần Thơ",
+  "role": "customer",
+  "status": false,
+  "date": "23/06/1991",
+  "start_date": null
+},{
+  "_id": {
+    "$oid": "6426948260367b4fa110cf33"
+  },
+  "id": 4,
+  "name": "Trần Văn Thiện",
+  "email": "Thien@gmail.com",
+  "phone": "0378464400",
+  "password": "123456",
+  "account": "admin",
+  "address": "KTX Khu A, ĐHQG TP HCM",
+  "role": "admin",
+  "status": false,
+  "date": "14/11/2002",
+  "start_date": "24/1/2020"
+},{
+  "_id": {
+    "$oid": "6426948a60367b4fa110cf35"
+  },
+  "id": 5,
+  "name": "Phạm Thanh Tú",
+  "email": "Tu@gmail.com",
+  "phone": "0378456456",
+  "password": "123456",
+  "account": "admindevice",
+  "address": "Biên Hòa, Đồng Nai",
+  "role": "admindevice",
+  "status": false,
+  "date": "14/11/2002",
+  "start_date": "14/5/2018"
+}]

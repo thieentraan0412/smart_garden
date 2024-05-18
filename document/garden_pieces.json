@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "6437c1b6ac42886d6eefa4f3"
+  },
+  "name": "Mảnh vườn a",
+  "type": "Sầu riêng",
+  "location": "Đâu đó ở Đồng Nai",
+  "owner": "Nam",
+  "area": 30,
+  "days": 20,
+  "id": 2
+},{
+  "_id": {
+    "$oid": "6437b7b3ac42886d6eefa4e9"
+  },
+  "name": "Mảnh vườn 1",
+  "type": null,
+  "location": "Đâu đó trong thủ đức",
+  "owner": "Thien",
+  "area": "45",
+  "days": 20,
+  "id": 1
+},{
+  "_id": {
+    "$oid": "644956ed36c91347ffba9e9f"
+  },
+  "id": 3,
+  "name": "Mảnh vườn 2",
+  "type": "Bưởi",
+  "location": "Thủ đức",
+  "owner": "Thien",
+  "area": 50,
+  "days": 20,
+  "date": {
+    "$date": "2023-04-26T16:53:01.868Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644956fc36c91347ffba9f24"
+  },
+  "id": 4,
+  "name": "Mảnh vườn 3",
+  "type": "Bưởi",
+  "location": "Thủ đức",
+  "owner": "Thien",
+  "area": 50,
+  "days": 20,
+  "date": {
+    "$date": "2023-04-26T16:53:16.170Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6449577436c91347ffbaa238"
+  },
+  "id": 5,
+  "name": "Chào em nha",
+  "type": "Nho",
+  "location": "KTXXTK",
+  "owner": "Thien",
+  "area": 100,
+  "days": 20,
+  "date": {
+    "$date": "2023-04-26T16:55:16.049Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644959f8cb07c697cbb791fb"
+  },
+  "id": 6,
+  "name": "Mảnh vườn 4",
+  "type": "Nho",
+  "location": "KTXXTK",
+  "owner": "Thien",
+  "area": 100,
+  "days": 20,
+  "date": {
+    "$date": "2023-04-26T17:06:00.172Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64495a60cb07c697cbb794f8"
+  },
+  "id": 7,
+  "name": "Mảnh vườn 5",
+  "type": "Nho",
+  "location": "KTXXTK",
+  "owner": "Thien",
+  "area": 100,
+  "days": 20,
+  "date": {
+    "$date": "2023-04-26T17:07:44.865Z"
+  },
+  "__v": 0
+}]

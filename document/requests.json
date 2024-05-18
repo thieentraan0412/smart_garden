@@ -1,0 +1,619 @@
+[{
+  "_id": {
+    "$oid": "64479dce115a8b5dc0da12a8"
+  },
+  "status": true,
+  "name": "Delete Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Delete garden request",
+  "device": [],
+  "registerGarden": {
+    "id": 4,
+    "owner": "Thien"
+  },
+  "date": {
+    "$date": "2023-04-25T09:30:54.977Z"
+  },
+  "__v": 0,
+  "isHidden": true
+},{
+  "_id": {
+    "$oid": "64479e56115a8b5dc0da142e"
+  },
+  "status": true,
+  "name": "Delete Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Delete garden request",
+  "device": [],
+  "registerGarden": {
+    "id": 4,
+    "name": "Mảnh vườn 1",
+    "owner": "Thien"
+  },
+  "date": {
+    "$date": "2023-04-25T09:33:10.728Z"
+  },
+  "__v": 0,
+  "isHidden": true
+},{
+  "_id": {
+    "$oid": "64479e59115a8b5dc0da150e"
+  },
+  "status": true,
+  "name": "Delete Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Delete garden request",
+  "device": [],
+  "registerGarden": {
+    "id": 4,
+    "name": "Mảnh vườn 1",
+    "owner": "Thien"
+  },
+  "date": {
+    "$date": "2023-04-25T09:33:13.467Z"
+  },
+  "__v": 0,
+  "isHidden": true
+},{
+  "_id": {
+    "$oid": "64479f27115a8b5dc0da162d"
+  },
+  "status": false,
+  "name": "Delete Garden",
+  "sender": "Nguyễn Khoa Nam",
+  "description": "Delete garden request",
+  "device": [],
+  "registerGarden": {
+    "id": 2,
+    "name": "Mảnh vườn a",
+    "owner": "Nam"
+  },
+  "date": {
+    "$date": "2023-04-25T09:36:39.988Z"
+  },
+  "__v": 0,
+  "isHidden": false
+},{
+  "_id": {
+    "$oid": "6447a2b9115a8b5dc0da205e"
+  },
+  "status": false,
+  "name": "Delete Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Delete garden request",
+  "device": [],
+  "registerGarden": {
+    "id": 1,
+    "name": "Mảnh vườn 1",
+    "owner": "Thien"
+  },
+  "date": {
+    "$date": "2023-04-25T09:51:53.919Z"
+  },
+  "__v": 0,
+  "isHidden": false
+},{
+  "_id": {
+    "$oid": "6447eb9c496f5b90677014e5"
+  },
+  "status": false,
+  "name": "Delete Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Delete garden request",
+  "device": [],
+  "registerGarden": {
+    "id": 1,
+    "name": "Mảnh vườn 1",
+    "owner": "Thien"
+  },
+  "date": {
+    "$date": "2023-04-25T15:02:52.196Z"
+  },
+  "__v": 0,
+  "isHidden": false
+},{
+  "_id": {
+    "$oid": "6447ebba496f5b9067701706"
+  },
+  "status": false,
+  "name": "Delete Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Delete garden request",
+  "device": [],
+  "registerGarden": {
+    "id": 1,
+    "name": "Mảnh vườn 1",
+    "owner": "Thien"
+  },
+  "date": {
+    "$date": "2023-04-25T15:03:22.116Z"
+  },
+  "__v": 0,
+  "isHidden": false
+},{
+  "_id": {
+    "$oid": "6447eda3496f5b90677032e6"
+  },
+  "status": false,
+  "name": "Delete Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Delete garden request",
+  "device": [],
+  "registerGarden": {
+    "id": 1,
+    "name": "Mảnh vườn 1",
+    "owner": "Thien"
+  },
+  "date": {
+    "$date": "2023-04-25T15:11:31.351Z"
+  },
+  "__v": 0,
+  "isHidden": false
+},{
+  "_id": {
+    "$oid": "6447ff7b496f5b9067704d0d"
+  },
+  "status": true,
+  "name": "Register Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Register garden request",
+  "device": [
+    {
+      "name": "Do am",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6447ff7b496f5b9067704d0e"
+      }
+    },
+    {
+      "name": "maybom",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6447ff7b496f5b9067704d0f"
+      }
+    },
+    {
+      "name": "Nhiet do",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6447ff7b496f5b9067704d10"
+      }
+    },
+    {
+      "name": "Do am dat",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6447ff7b496f5b9067704d11"
+      }
+    },
+    {
+      "name": "Anh sang",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6447ff7b496f5b9067704d12"
+      }
+    }
+  ],
+  "registerGarden": {
+    "name": "asc",
+    "type": "Bưởi",
+    "location": "Thủ đức",
+    "owner": "Thien",
+    "area": "50",
+    "special": ""
+  },
+  "date": {
+    "$date": "2023-04-25T16:27:39.314Z"
+  },
+  "__v": 0,
+  "isHidden": false
+},{
+  "_id": {
+    "$oid": "64480112496f5b9067704f29"
+  },
+  "status": false,
+  "name": "Modify Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Modify garden request",
+  "device": [
+    {
+      "name": "Do am",
+      "quantity": 1,
+      "_id": {
+        "$oid": "64480112496f5b9067704f2a"
+      }
+    },
+    {
+      "name": "maybom",
+      "quantity": 1,
+      "_id": {
+        "$oid": "64480112496f5b9067704f2b"
+      }
+    },
+    {
+      "name": "Nhiet do",
+      "quantity": 1,
+      "_id": {
+        "$oid": "64480112496f5b9067704f2c"
+      }
+    },
+    {
+      "name": "Do am dat",
+      "quantity": 1,
+      "_id": {
+        "$oid": "64480112496f5b9067704f2d"
+      }
+    },
+    {
+      "name": "Anh sang",
+      "quantity": 1,
+      "_id": {
+        "$oid": "64480112496f5b9067704f2e"
+      }
+    }
+  ],
+  "registerGarden": {
+    "id": 1,
+    "name": "Mảnh vườn 1",
+    "type": "Chuối",
+    "location": "Đâu đó trong thủ đức",
+    "owner": "Thien",
+    "area": "60",
+    "special": "test"
+  },
+  "date": {
+    "$date": "2023-04-25T16:34:26.022Z"
+  },
+  "__v": 0,
+  "isHidden": false
+},{
+  "_id": {
+    "$oid": "6448014e496f5b9067704f83"
+  },
+  "status": false,
+  "name": "Modify Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Modify garden request",
+  "device": [
+    {
+      "name": "Do am",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6448014e496f5b9067704f84"
+      }
+    },
+    {
+      "name": "maybom",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6448014e496f5b9067704f85"
+      }
+    },
+    {
+      "name": "Nhiet do",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6448014e496f5b9067704f86"
+      }
+    },
+    {
+      "name": "Do am dat",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6448014e496f5b9067704f87"
+      }
+    },
+    {
+      "name": "Anh sang",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6448014e496f5b9067704f88"
+      }
+    }
+  ],
+  "registerGarden": {
+    "id": 1,
+    "name": "Mảnh vườn 1",
+    "type": "Chuối",
+    "location": "Đâu đó trong thủ đức",
+    "owner": "Thien",
+    "area": 30,
+    "special": ""
+  },
+  "date": {
+    "$date": "2023-04-25T16:35:26.874Z"
+  },
+  "__v": 0,
+  "isHidden": false
+},{
+  "_id": {
+    "$oid": "64481376121f1dbb71001331"
+  },
+  "status": false,
+  "name": "Delete Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Delete garden request",
+  "device": [],
+  "registerGarden": {
+    "id": 1,
+    "name": "Mảnh vườn 1",
+    "owner": "Thien"
+  },
+  "date": {
+    "$date": "2023-04-25T17:52:54.587Z"
+  },
+  "__v": 0,
+  "isHidden": false
+},{
+  "_id": {
+    "$oid": "644813a9121f1dbb71001a37"
+  },
+  "status": false,
+  "name": "Delete Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Delete garden request",
+  "device": [],
+  "registerGarden": {
+    "id": 1,
+    "name": "Mảnh vườn 1",
+    "owner": "Thien"
+  },
+  "date": {
+    "$date": "2023-04-25T17:53:45.046Z"
+  },
+  "__v": 0,
+  "isHidden": false
+},{
+  "_id": {
+    "$oid": "644813fe121f1dbb71001aa3"
+  },
+  "status": false,
+  "name": "Register Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Register garden request",
+  "device": [
+    {
+      "name": "Do am",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644813fe121f1dbb71001aa4"
+      }
+    },
+    {
+      "name": "maybom",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644813fe121f1dbb71001aa5"
+      }
+    },
+    {
+      "name": "Nhiet do",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644813fe121f1dbb71001aa6"
+      }
+    },
+    {
+      "name": "Do am dat",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644813fe121f1dbb71001aa7"
+      }
+    },
+    {
+      "name": "Anh sang",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644813fe121f1dbb71001aa8"
+      }
+    }
+  ],
+  "registerGarden": {
+    "name": "Mảnh vườn 3",
+    "type": "Cam",
+    "location": "Thủ đức",
+    "owner": "Thien",
+    "area": "200",
+    "special": ""
+  },
+  "date": {
+    "$date": "2023-04-25T17:55:10.870Z"
+  },
+  "__v": 0,
+  "isHidden": false
+},{
+  "_id": {
+    "$oid": "644814a6121f1dbb71002002"
+  },
+  "status": false,
+  "name": "Modify Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Modify garden request",
+  "device": [
+    {
+      "name": "Do am",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644814a6121f1dbb71002003"
+      }
+    },
+    {
+      "name": "maybom",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644814a6121f1dbb71002004"
+      }
+    },
+    {
+      "name": "Nhiet do",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644814a6121f1dbb71002005"
+      }
+    },
+    {
+      "name": "Do am dat",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644814a6121f1dbb71002006"
+      }
+    },
+    {
+      "name": "Anh sang",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644814a6121f1dbb71002007"
+      }
+    }
+  ],
+  "registerGarden": {
+    "id": 1,
+    "name": "Mảnh vườn 5",
+    "type": "Chuối",
+    "location": "Đâu đó trong thủ đức",
+    "owner": "Thien",
+    "area": 30,
+    "special": ""
+  },
+  "date": {
+    "$date": "2023-04-25T17:57:58.995Z"
+  },
+  "__v": 0,
+  "isHidden": false
+},{
+  "_id": {
+    "$oid": "6449051747b15fc6550a1545"
+  },
+  "status": false,
+  "name": "Delete Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Delete garden request",
+  "device": [],
+  "registerGarden": {
+    "id": 1,
+    "name": "Mảnh vườn 1",
+    "owner": "Thien"
+  },
+  "date": {
+    "$date": "2023-04-26T11:03:51.243Z"
+  },
+  "__v": 0,
+  "isHidden": false
+},{
+  "_id": {
+    "$oid": "6449576436c91347ffbaa19b"
+  },
+  "status": true,
+  "isHidden": true,
+  "name": "Register Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Register garden request",
+  "device": [
+    {
+      "name": "Do am",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6449576436c91347ffbaa19c"
+      }
+    },
+    {
+      "name": "maybom",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6449576436c91347ffbaa19d"
+      }
+    },
+    {
+      "name": "Nhiet do",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6449576436c91347ffbaa19e"
+      }
+    },
+    {
+      "name": "Do am dat",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6449576436c91347ffbaa19f"
+      }
+    },
+    {
+      "name": "Anh sang",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6449576436c91347ffbaa1a0"
+      }
+    }
+  ],
+  "registerGarden": {
+    "name": "ciao belle",
+    "type": "Nho",
+    "location": "KTXXTK",
+    "owner": "Thien",
+    "area": "100",
+    "special": "Có gì đâu, bình thường"
+  },
+  "date": {
+    "$date": "2023-04-26T16:55:00.327Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a6b5b5b98bfacb0c77585"
+  },
+  "status": true,
+  "isHidden": false,
+  "name": "Modify Garden",
+  "sender": "Trần Văn Thiện",
+  "description": "Modify garden request",
+  "device": [
+    {
+      "name": "Do am",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644a6b5b5b98bfacb0c77586"
+      }
+    },
+    {
+      "name": "maybom",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644a6b5b5b98bfacb0c77587"
+      }
+    },
+    {
+      "name": "Nhiet do",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644a6b5b5b98bfacb0c77588"
+      }
+    },
+    {
+      "name": "Do am dat",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644a6b5b5b98bfacb0c77589"
+      }
+    },
+    {
+      "name": "Anh sang",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644a6b5b5b98bfacb0c7758a"
+      }
+    }
+  ],
+  "registerGarden": {
+    "id": 1,
+    "name": "Mảnh vườn 1",
+    "type": "Cam",
+    "location": "Đâu đó trong thủ đức",
+    "owner": "Thien",
+    "area": "45",
+    "special": ""
+  },
+  "date": {
+    "$date": "2023-04-27T12:32:27.304Z"
+  },
+  "__v": 0
+}]

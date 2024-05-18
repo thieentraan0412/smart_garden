@@ -1,0 +1,164 @@
+[{
+  "_id": {
+    "$oid": "643cc452e90164eb13f80262"
+  },
+  "id": 2,
+  "name": "Sensor độ ẩm 1",
+  "type": "air",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 2,
+    "y": 23
+  },
+  "status": true,
+  "threshold": {
+    "min": 25,
+    "max": 30
+  },
+  "water": null,
+  "time": null,
+  "install_date": {
+    "$date": "2023-04-26T02:07:41.280Z"
+  },
+  "garPiece": 1
+},{
+  "_id": {
+    "$oid": "643cc482e90164eb13f80268"
+  },
+  "id": 3,
+  "name": "Sensor nhiệt độ 1",
+  "type": "temp",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 2,
+    "y": 1
+  },
+  "status": true,
+  "threshold": {
+    "min": 25,
+    "max": 30
+  },
+  "water": null,
+  "time": null,
+  "install_date": {
+    "$date": "2023-04-26T02:07:41.280Z"
+  },
+  "garPiece": 1
+},{
+  "_id": {
+    "$oid": "643cc79fe90164eb13f80285"
+  },
+  "id": 5,
+  "name": "Máy bơm 1",
+  "type": "pump",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 10,
+    "y": 5
+  },
+  "status": true,
+  "threshold": {
+    "min": null,
+    "max": null
+  },
+  "water": 300,
+  "time": null,
+  "install_date": {
+    "$date": "2023-04-26T02:07:41.280Z"
+  },
+  "garPiece": 1
+},{
+  "_id": {
+    "$oid": "643cc8b4e90164eb13f80288"
+  },
+  "id": 4,
+  "name": "Sensor độ ẩm đất 1",
+  "type": "soil",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 6,
+    "y": 3
+  },
+  "status": true,
+  "threshold": {
+    "min": 25,
+    "max": 30
+  },
+  "water": null,
+  "time": null,
+  "install_date": {
+    "$date": "2023-04-26T02:07:41.280Z"
+  },
+  "garPiece": 1
+},{
+  "_id": {
+    "$oid": "643cc8e1e90164eb13f80289"
+  },
+  "id": 1,
+  "name": "Sensor ánh sáng 1",
+  "type": "light",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 10,
+    "y": 5
+  },
+  "status": true,
+  "threshold": {
+    "min": 20,
+    "max": 32
+  },
+  "water": null,
+  "time": null,
+  "install_date": {
+    "$date": "2023-04-26T02:07:41.280Z"
+  },
+  "garPiece": 1
+},{
+  "_id": {
+    "$oid": "644b6ea008c140051b1bcb88"
+  },
+  "id": 6,
+  "name": "Sensor ánh sáng 2",
+  "type": "light",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 23,
+    "y": 21
+  },
+  "status": true,
+  "threshold": {
+    "min": 23,
+    "max": 34
+  },
+  "water": null,
+  "time": null,
+  "garPiece": 1,
+  "install_date": {
+    "$date": "2023-04-28T06:58:40.028Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644b6ed108c140051b1bcca8"
+  },
+  "id": 7,
+  "name": "Sensor test",
+  "type": "light",
+  "owner": "Thien",
+  "coordinates": {
+    "x": 123,
+    "y": 123
+  },
+  "status": true,
+  "threshold": {
+    "min": 32,
+    "max": 43
+  },
+  "water": null,
+  "time": null,
+  "garPiece": 7,
+  "install_date": {
+    "$date": "2023-04-28T06:59:29.824Z"
+  },
+  "__v": 0
+}]

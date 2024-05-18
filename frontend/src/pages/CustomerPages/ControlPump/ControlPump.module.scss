@@ -1,0 +1,36 @@
+table{
+    th{
+        font-size: 20px;
+        font-weight: 10px;
+    }
+    tr{
+        line-height: 50px;
+    }
+}
+.box{
+    border: 1px solid green;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.sm-box{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.center{
+    margin: auto !important;
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+.col-left{
+    margin-right: 20px;
+}
+p{
+    font-size: 30px;
+}

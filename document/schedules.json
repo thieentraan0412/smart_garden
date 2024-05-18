@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65586ea3a3d2086b4923ba5b"
+  },
+  "water": "1000",
+  "time": "14:58",
+  "dates": "Mon",
+  "type": "weekly",
+  "owner": "Thien"
+},{
+  "_id": {
+    "$oid": "65586ea3a3d2086b4923ba5d"
+  },
+  "water": "1000",
+  "time": "14:58",
+  "dates": "Wed",
+  "type": "weekly",
+  "owner": "Thien"
+},{
+  "_id": {
+    "$oid": "65586ea3a3d2086b4923ba5f"
+  },
+  "water": "1000",
+  "time": "14:58",
+  "dates": "Fri",
+  "type": "weekly",
+  "owner": "Thien"
+}]

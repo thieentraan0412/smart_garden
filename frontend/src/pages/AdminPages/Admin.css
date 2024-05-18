@@ -1,0 +1,55 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+body {
+    margin: 0;
+}
+
+/*Styling for SideBar.jsx */
+.side-bar {
+    max-width: 22.5%;
+    height: 100vh;
+    background-color: #007155;
+    color: white;
+    margin: 0;
+}
+
+.admin-logo {
+    margin: 0;
+}
+
+/* Styling for ManageUser.jsx */
+.add-user > button {
+    width: 35%;
+    margin-left: 20%;
+}
+
+.search-user > input {
+    /* margin-left: 35%; */
+    border: 1px solid black;
+    border-radius: 7.5px;
+}
+
+/* Styling for ManageRequest.jsx */
+.modify-button {
+    width: 45%;
+}
+
+/* Styling for Pagination.jsx */
+.page > li {
+    list-style-type: none;
+    border: 1px solid black;
+    border-radius: 2.5px;
+    width: 20px;
+}
+.page > li > a {
+    text-decoration: none;
+    color: black;
+}
+
+/* Styling for ReadUserInfor.jsx */
+.user-modal--user-icon {
+    width: 20px;
+    height: 22.5px;
+}
